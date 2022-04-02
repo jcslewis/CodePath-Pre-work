@@ -67,7 +67,7 @@ Losing the Game - Failed to correctly repeat the computer's pattern
 
 ## Interview Recording URL Link
 
-https://www.loom.com/share/6574ef35db2642b8a67661fb6b8e1266
+https://www.loom.com/share/995c493a7ed74e868fd430a0a22a5754
 
 ## License
 
